@@ -11,12 +11,27 @@ let username = prompt(`Please enter your name!`)
     alert("Hello, " + username + "! Hope you are hungry!")
 }
 
-
-  
-
 // Step 2 - Food choice
 // Your code goes here
 
+let chooseFood = prompt(
+   `What are you craving today?
+   Enter a number:
+   1 - Pizza
+   2 - Pasta
+   3 - Salad`)
+
+   if (chooseFood == 1) {
+    alert(`Pizza, amazing choice!`)
+   } else if ( chooseFood == 2){
+    alert(`Pasta! You have a really good taste!`)
+   } else if (chooseFood == 3){
+    alert(`Our salad will not disappiont you!`)
+   } else {
+    alert(`Invalid, you must choose a number between 1-3`)
+   }
+
+  
 // Step 3 - Subtype choice
 // Your code goes here
 
