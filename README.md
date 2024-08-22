@@ -1,10 +1,7 @@
 # Pizzabot
+The project involved creating a pizza bot using JavaScript. The bot allows users to place orders by interacting with a series of prompts that guide them through selecting their type of food like pizza, pasta or salad. Furthermore, I also added subtype choices. The main goal was to practice JavaScript concepts like if, else if, and else statements, but also switch statements.
 
-Replace this readme with your own information about the project. You can include things like:
-
-- Brief description of the assignment
-- How you approached the task, what tools and techniques you used, and how you planned it
-- If you had more time, what would be next?
+With more time, I would add additional features to the bot, such as validating user input, allowing users to customize their orders further with more subchoices for example toppings.
 
 ## View it live
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+https://paolospizzabot.netlify.app/
